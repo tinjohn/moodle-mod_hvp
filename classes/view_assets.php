@@ -328,7 +328,7 @@ class view_assets {
                  " class=\"h5p-iframe\"" .
                  " data-content-id=\"{$this->content['id']}\"" .
                  " style=\"height:1px\"" .
-                 " src=\"about:blank\"" .
+                 " src=\"aboutblank\"" .
                  " frameBorder=\"0\"" .
                  " scrolling=\"no\"" .
                  " title=\"{$title}\">" .
