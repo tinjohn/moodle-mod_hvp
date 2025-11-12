@@ -1,7 +1,7 @@
 [submodule "library"]
 	path = library
 	url = https://github.com/tinjohn/h5p-php-library.git
-	branch = moodle
+	branch = fix/error153_interactive_Video
 [submodule "editor"]
 	path = editor
 	url = https://github.com/h5p/h5p-editor-php-library.git
